@@ -187,6 +187,7 @@ function App() {
             form="calc-form"
             className="bg-tw-purple hover:bg-tw-black transition duration-300 p-3 md:p-6 rounded-full translate-y-6 md:translate-y-10 focus:outline-none"
           >
+            <span className="sr-only">Button to calculate age</span>
             <ArrowIcon />
           </button>
 
